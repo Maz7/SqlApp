@@ -11,7 +11,7 @@ namespace SqlApp
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        /// //commentttts
+        /// //comm
         [STAThread]
         static void Main()
         {
